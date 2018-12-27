@@ -1,5 +1,5 @@
-# expo-multiple-imagepicker
-multiple image selecting package for expo
+# expo-multiple-imagealbumpicker
+multiple image selecting package with album viewer for expo
 
 
 working example path : example/index.js
